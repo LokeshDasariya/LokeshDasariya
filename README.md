@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Dasariya</h1>
 <h3 align="center">I am passionate about Data Analyst Role from india</h3>
-<img align="right" alt="Data Analyst" width="400" src=https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align="right" alt="Data Analyst" width="350" src=https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdasariya&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdasariya" /> </p>
 
